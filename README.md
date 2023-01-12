@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafalo-bc
+- 👋 Hi, I’m @rafalobc
 - 👀 I’m interested in automation of all kinds
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on interesting development projects with a large range
